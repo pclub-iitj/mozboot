@@ -1,5 +1,6 @@
 # Mozboot @ IITJ
 
-This repo is just a dummy. You may not find any code here.
+This repo contains the website of Mozboot @ IITJ.
 
-This is just for task distribution and sharing via Github Issues.
+The (issues)[https://github.com/pclub-iitj/mozboot/issues] section contains task distribution and planning.
+
